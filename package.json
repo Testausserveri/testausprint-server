@@ -1,0 +1,7 @@
+{
+  "name": "testausprint-server",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-xmpp-server": "^2.2.7"
+  }
+}
